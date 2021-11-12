@@ -17,6 +17,6 @@ int main(void)
     }
     else
     {
-        printf("B must be greater than A\n");
+        printf("B має бути більше ніж A\n");
     }
 }
