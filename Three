@@ -26,6 +26,6 @@ int main(void)
     }
     else
     {
-        printf("Number must be from 1 to 12\n");
+        printf("Число має бути від 1 до 12\n");
     }
 }
